@@ -20,5 +20,4 @@ The repository is organized into weekly folders, each containing the Python solu
 
 ## Contributing
 
-I welcome contributions, feedback, and suggestions for improvement. If you have any insights, optimizations, or alternative solutions for the problems I've solved, feel free to open a pull request or raise an issue.
-//
+I welcome contributions, feedback, and suggestions for improvement. If you have any alternative solutions for the problems I've solved, feel free to open a pull request or raise an issue.
