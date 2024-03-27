@@ -16,8 +16,9 @@ The repository is organized into weekly folders, each containing the Python solu
 ## Weekly Progress
 
 - **Week 1**: [Two Sum](https://leetcode.com/problems/two-sum/)
-- **Week 2**: [Problem Name](Link to Problem)
+- **Week 2**: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 
 ## Contributing
 
 I welcome contributions, feedback, and suggestions for improvement. If you have any insights, optimizations, or alternative solutions for the problems I've solved, feel free to open a pull request or raise an issue.
+//
