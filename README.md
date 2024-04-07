@@ -17,6 +17,7 @@ The repository is organized into weekly folders, each containing the Python solu
 
 - **Week 1**: [Two Sum](https://leetcode.com/problems/two-sum/)
 - **Week 2**: [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
+- **Week 3**: [ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 ## Contributing
 
